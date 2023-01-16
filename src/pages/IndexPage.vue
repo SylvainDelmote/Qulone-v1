@@ -1,6 +1,6 @@
 <template>
   <q-page class="row justify-center">
-    <div  class="q-pa-xl q-gutter-xl">
+    <div  class="q-pa-xl git ">
       <TimeNavigation />
       <div class="fit row wrap justify-start items-start content-start">
           <BaseCard />
